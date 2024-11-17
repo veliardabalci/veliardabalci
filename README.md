@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">I'm a back-end developer from Turkey.</h3>
+<h3 align="center">I'm a back-end developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
